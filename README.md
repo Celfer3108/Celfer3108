@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Celina Ferreira
+- 👋 Hi,there! I’m Celina Ferreira
 - 🌱 I’m a undergraduate student in Database - Uninter
 - 💞️ I’m working as a Solution Support Engineer at SAP.
 - 😄 Pronouns: she/her
